@@ -1,6 +1,7 @@
 # Quick-CMS
 
 Quick-CMS is a content management system (CMS) developed using Laravel, Inertia.js, and React. It's designed to be a lightweight, fast, and flexible CMS that allows users to easily manage the content of their website.
+You can see the demo at the link: https://quickcms.altervista.org/
 
 ## Key Features
 
